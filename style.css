@@ -5,4 +5,7 @@ body{
 	background-color: #a1f1f1;
 	font-family: Arial, Helvetica, sans-serif;
 	}
-
+	.header {
+		background-color: #2F38E9;
+		display: block;
+	}
